@@ -44,18 +44,18 @@ Com este mod, todas as mensagens do chat e eventos importantes são enviados em 
 
 ## Status dos Recursos
 
-| Recurso                          | Status |
-|----------------------------------|--------|
-| Bússola (H)                      | ✅      |
-| Controle de Som (N)              | ✅      |
-| Mensagem de peso (I)             | ✅      |
-| Exibição do período do dia (T)   | ✅      |
-| Chat no Discord                  | ✅      |
-| Registro de conexões no Discord  | ✅      |
-| Registro de bases no Discord     | ✅      |
-| Mensagem de reinício             | ✅      |
-| Spawnar NPC                      | ✅      |
-| Kit Boas-Vindas                  | ✅      |
+| Recurso                          | Status | Documentação |
+|----------------------------------|--------|--------------|
+| Bússola (H)                      | ✅      |[Ações por atalhos](https://github.com/zerodawnbr/zerodawntoolbox/wiki/A%C3%A7%C3%B5es-por-atalhos)|
+| Controle de Som (N)              | ✅      |[Ações por atalhos](https://github.com/zerodawnbr/zerodawntoolbox/wiki/A%C3%A7%C3%B5es-por-atalhos)|
+| Mensagem de peso (I)             | ✅      |[Ações por atalhos](https://github.com/zerodawnbr/zerodawntoolbox/wiki/A%C3%A7%C3%B5es-por-atalhos)|
+| Exibição do período do dia (T)   | ✅      |[Ações por atalhos](https://github.com/zerodawnbr/zerodawntoolbox/wiki/A%C3%A7%C3%B5es-por-atalhos)|
+| Chat no Discord                  | ✅      |[Envio de mensagens do chat](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Envio-de-mensagens-do-chat)|
+| Registro de conexões no Discord  | ✅      |[Registros de usuarios que conectam no Discord](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Registros-de-usuarios-que-conectam-no-Discord)|
+| Registro de bases no Discord     | ✅      |[Territórios](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Territ%C3%B3rios)|
+| Mensagem de reinício             | ✅      |[Mensagem de aviso de reinício do servidor](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Mensagem-de-aviso-de-rein%C3%ADcio-do-servidor)|
+| Spawnar NPC                      | ✅      |[NPC's](https://github.com/zerodawnbr/zerodawntoolbox/wiki/NPC's)|
+| Kit Boas-Vindas                  | ✅      |[Kit Boas Vindas](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Kit-Boas-Vindas)|
 
 ---
 
@@ -66,19 +66,3 @@ Entre em contato pelo **Direct no Discord** ou abra um **ticket**.
 [Visite nosso Discord](https://discord.gg/DNMhmKkZP3)
 
 
-Documentação:
-* [Ações por atalhos](https://github.com/zerodawnbr/zerodawntoolbox/wiki/A%C3%A7%C3%B5es-por-atalhos)
-
-* [Envio de mensagens do chat](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Envio-de-mensagens-do-chat)
-
-* [Kit Boas Vindas](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Kit-Boas-Vindas)
-
-* [Limpeza de arquivos de logs no Servidor](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Limpeza-de-arquivos-de-logs-no-Servidor)
-
-* [Mensagem de aviso de reinício do servidor](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Mensagem-de-aviso-de-rein%C3%ADcio-do-servidor)
-
-* [NPC's](https://github.com/zerodawnbr/zerodawntoolbox/wiki/NPC's)
-
-* [Registros de usuarios que conectam no Discord](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Registros-de-usuarios-que-conectam-no-Discord)
-
-* [Territórios](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Territ%C3%B3rios)
