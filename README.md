@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://github.com/zerodawnbr/zerodawntoolbox/blob/main/imgs/banner.jpg" alt="Banner Zero Dawn"> </p>
+
+
 ![Banner do Mod](https://github.com/zerodawnbr/zerodawntoolbox/blob/main/imgs/zerodawntoolbox.jpg)
 
 # ZeroDawnBR Toolbox
@@ -68,4 +71,4 @@ Entre em contato pelo **Direct no Discord** ou abra um **ticket**.
 
 [Visite nosso Discord](https://discord.gg/DNMhmKkZP3)
 
-
+<br><br><p align="center"> <img src="https://github.com/zerodawnbr/zerodawntoolbox/blob/main/imgs/banner.jpg" alt="Banner Zero Dawn"> </p>
