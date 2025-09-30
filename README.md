@@ -57,6 +57,7 @@ Com este mod, todas as mensagens do chat e eventos importantes são enviados em 
 | Mensagem de reinício             | ✅      |[Mensagem de aviso de reinício do servidor](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Mensagem-de-aviso-de-rein%C3%ADcio-do-servidor)|
 | Spawnar NPC                      | ✅      |[NPC's](https://github.com/zerodawnbr/zerodawntoolbox/wiki/NPC's)|
 | Kit Boas-Vindas                  | ✅      |[Kit Boas Vindas](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Kit-Boas-Vindas)|
+| Kit Boas-Vindas Plus             | ✅      |[Kit Boas Vindas Plus](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Kit-Boas-Vindas-Plus)|
 | Bloqueio de veículos com senha   | ✅      |[Bloqueio de Veículos](https://github.com/zerodawnbr/zerodawntoolbox/wiki/Bloqueios-de-Ve%C3%ADculos-com-Senha)|
 
 ---
